@@ -15,6 +15,7 @@ List to remember
    + git push
    + git pull
    + git help config
+   + git config --global push.default simple
 
 3: Configure your name and email address to your github
    + git config --global user.name "Romeo"
