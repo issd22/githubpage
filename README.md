@@ -14,6 +14,7 @@ List to remember
    + git commit -m "update the file" README.me
    + git push
    + git pull
+   + git help config
 
 3: Configure your name and email address to your github
    + git config --global user.name "Romeo"
