@@ -21,4 +21,7 @@ List to remember
    + git config --global user.name "Romeo"
    + git config --global user.email romeobleonor@gmail.com or romeo.leonor@investorsgroup.com
 
-4: Next... 
+4: Simulate the changes from github to your local copy
+   + Make changes on README file using the edit icon on github
+   + Pull the updates to your local copy 
+   + Use 'git log' command to check the recent commit that has been made
