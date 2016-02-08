@@ -23,5 +23,6 @@ List to remember
 
 4: Simulate the changes from github to your local copy
    + Make changes on README file using the edit icon on github
-   + Pull the updates to your local copy 
-   + Use 'git log' command to check the recent commit that has been made
+   + Use 'git log' command to check the recent commit that has been made on local machine & compare the github commit ID e.g "bbadac3"
+   + It means that the github repo is ahead on your local repo
+   + use 'git pull' to get the recent commit happend on github
